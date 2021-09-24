@@ -1,0 +1,10 @@
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\bin\Debug\UseGstUtilities.exe.config
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\bin\Debug\UseGstUtilities.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\bin\Debug\UseGstUtilities.pdb
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\bin\Debug\GstUtilities.dll
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\bin\Debug\GstUtilities.pdb
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\obj\Debug\UseGstUtilities.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\obj\Debug\UseGstUtilities.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\obj\Debug\UseGstUtilities.csproj.CopyComplete
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\obj\Debug\UseGstUtilities.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\UseGstUtilities\UseGstUtilities\UseGstUtilities\obj\Debug\UseGstUtilities.pdb
